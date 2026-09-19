@@ -59,5 +59,4 @@ su -c "cat /sys/class/backlight/panel0-backlight/brightness"
 
 ## 致谢
 
-- **brightnessmax（作者：呆又萌）** —— 其面板配置、亮度表、LTM 与热保护相关改动已整合进本模块
 - 模块内包含的厂商配置文件（面板曲线、亮度表、显示配置等）版权归原厂所有，仅供个人学习交流使用
