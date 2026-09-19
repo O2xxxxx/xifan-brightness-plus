@@ -1,0 +1,3 @@
+# 由 resetprop 在 post-fs-data 读取
+ro.oplus.ridermode.auto_enhance_screen_brightness.enable=true
+vendor.manualbrightness_ltm_disable=0
